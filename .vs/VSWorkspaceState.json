@@ -1,8 +1,9 @@
 {
   "ExpandedNodes": [
-    "",
+    "\\bin",
+    "\\bin\\Debug",
+    "\\bin\\Debug\\net6.0",
     "\\Pages"
   ],
-  "SelectedNode": "\\Pages\\Counter.razor",
   "PreviewInSolutionExplorer": false
 }
