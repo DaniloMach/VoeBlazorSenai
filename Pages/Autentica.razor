@@ -1,0 +1,48 @@
+﻿@page "/autentica"
+@inject HttpClient client;
+@using Newtonsoft.Json;
+@using Data;
+
+
+<div class="col-3">
+    Usuário:<input type="text" class="form-control" id="inputUser" @bind-value="@inputUser" placeholder="">
+</div>
+<div class="col-3">
+    Senha:<input type="password" class="form-control" id="inputPassword" @bind-value="@inputPassword" placeholder="">
+</div>
+<div class="col-3" style="margin-top:10px;">
+       <button type="submit" @onclick="Acessar" class="btn btn-primary mb-6">confirmar acesso</button>
+</div>
+
+@if(acesso){
+    <p style="margin-top:25px;">Seja bem vindo:@inputUser</p>
+    <p>Você tem a funcionalidade habilitada de:  <NavLink class="nav-link" href="fetchdata">
+                <span class="oi oi-list-rich" aria-hidden="true"></span> Lista de Usuarios
+            </NavLink> </p>
+}
+@code{
+    string inputUser { get; set; } = string.Empty;
+    string inputPassword { get; set; } = string.Empty;
+    List<Login>? Users;
+    bool acesso = false;
+    private async void Acessar()
+    {
+        var apiName = "http://mrd34dpooly-001-site1.ftempurl.com/api/login";
+        var httpResponse = await client.GetAsync(apiName);
+        if (httpResponse.IsSuccessStatusCode)
+        {
+            Users = new List<Login>();
+            var apiConteudo = await httpResponse.Content.ReadAsStringAsync();
+            Users = JsonConvert.DeserializeObject<List<Login>>(apiConteudo);
+            StateHasChanged();
+        }
+        foreach(var user in Users)
+        {
+            if(user.Usuario == inputUser)
+            {
+                acesso = true;
+            } 
+            
+        }
+    }
+}

@@ -1,0 +1,54 @@
+﻿@page "/fetchdata"
+@inject HttpClient client
+@using Newtonsoft.Json
+@using Data
+
+<PageTitle>Weather forecast</PageTitle>
+
+<div class="container-fluid">
+    <div class="row justify-content-center" style="margin-bottom:50px">
+        <h3 class="text-center">Usuarios Cadastrados</h3>
+    </div>
+    <div class="row" style="margin=25px;">
+        <strong>Lista de usuários</strong>
+        @if (Users != null)
+        {
+            <table class="table table-bordered table-striped">
+                <thead class="">
+                    <tr>
+                        <th>Usuario</th>
+                        <th>Data de Criação</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach(var user in Users)
+                    {
+                        <tr>
+                            <td>@user.Usuario</td>
+                            <td>@user.DataCriacao</td>
+                        </tr>
+                    }
+                </tbody>
+            </table>                
+        }
+    </div>
+    <div class="row" style="margin:10px;margin-bottom:50px">
+        <div class="col"><button class="btn btn-info" @onclick="GetUser">Listar Usuários</button></div>
+    </div>
+
+</div>
+@code{
+    List<Login>? Users;
+    private async void GetUser()
+    {
+        var apiName = "http://mrd34dpooly-001-site1.ftempurl.com/api/login";
+        var httpResponse = await client.GetAsync(apiName);
+        if (httpResponse.IsSuccessStatusCode)
+        {
+            Users = new List<Login>();
+            var apiConteudo = await httpResponse.Content.ReadAsStringAsync();
+            Users = JsonConvert.DeserializeObject<List<Login>>(apiConteudo);
+            StateHasChanged();
+        }
+    }
+}
