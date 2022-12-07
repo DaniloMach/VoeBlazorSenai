@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "B:\\Git\\VoeAirlinesBlazor\\VoeAirlinesBlazor.csproj": {}
+    "D:\\OneDrive\\Área de Trabalho\\Nova pasta\\VoeAirlinesBlazor\\VoeAirlinesBlazor.csproj": {}
   },
   "projects": {
-    "B:\\Git\\VoeAirlinesBlazor\\VoeAirlinesBlazor.csproj": {
+    "D:\\OneDrive\\Área de Trabalho\\Nova pasta\\VoeAirlinesBlazor\\VoeAirlinesBlazor.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "B:\\Git\\VoeAirlinesBlazor\\VoeAirlinesBlazor.csproj",
+        "projectUniqueName": "D:\\OneDrive\\Área de Trabalho\\Nova pasta\\VoeAirlinesBlazor\\VoeAirlinesBlazor.csproj",
         "projectName": "VoeAirlinesBlazor",
-        "projectPath": "B:\\Git\\VoeAirlinesBlazor\\VoeAirlinesBlazor.csproj",
-        "packagesPath": "C:\\Users\\shad0\\.nuget\\packages\\",
-        "outputPath": "B:\\Git\\VoeAirlinesBlazor\\obj\\",
+        "projectPath": "D:\\OneDrive\\Área de Trabalho\\Nova pasta\\VoeAirlinesBlazor\\VoeAirlinesBlazor.csproj",
+        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+        "outputPath": "D:\\OneDrive\\Área de Trabalho\\Nova pasta\\VoeAirlinesBlazor\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "A:\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\shad0\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -59,7 +55,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -71,7 +68,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
         }
       }
     }

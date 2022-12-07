@@ -12,7 +12,7 @@ builder.Services.AddScoped
 (
     s =>
     {
-        return new HttpClient { BaseAddress = new Uri(@"http://mrd34dpooly-001-site1.ftempurl.com") };
+        return new HttpClient { BaseAddress = new Uri(@"http://destruidor911-001-site1.itempurl.com/") };
     }
 );
 

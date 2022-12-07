@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "VaLkvKNj/X4hwPuqtDL0MVAdEDjZaboy7sNtSoHSWas=",
+  "Hash": "iyPHBbKgvH1ll/GoATOKZQCVJ241HU9fc4DnIvDQnSs=",
   "Source": "VoeAirlinesBlazor",
   "BasePath": "_content/VoeAirlinesBlazor",
   "Mode": "Default",
@@ -10,17 +10,51 @@
     {
       "Name": "VoeAirlinesBlazor\\wwwroot",
       "Source": "VoeAirlinesBlazor",
-      "ContentRoot": "B:\\Git\\VoeAirlinesBlazor\\wwwroot\\",
+      "ContentRoot": "D:\\OneDrive\\Área de Trabalho\\Nova pasta\\VoeAirlinesBlazor\\wwwroot\\",
       "BasePath": "_content/VoeAirlinesBlazor",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "B:\\Git\\VoeAirlinesBlazor\\obj\\Debug\\net6.0\\scopedcss\\bundle\\VoeAirlinesBlazor.styles.css",
+      "Identity": "C:\\Users\\User\\.nuget\\packages\\blazored.toast\\3.2.2\\staticwebassets\\blazored-toast.css",
+      "SourceId": "Blazored.Toast",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\User\\.nuget\\packages\\blazored.toast\\3.2.2\\staticwebassets\\",
+      "BasePath": "_content/Blazored.Toast",
+      "RelativePath": "blazored-toast.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\User\\.nuget\\packages\\blazored.toast\\3.2.2\\staticwebassets\\blazored-toast.css"
+    },
+    {
+      "Identity": "C:\\Users\\User\\.nuget\\packages\\blazored.toast\\3.2.2\\staticwebassets\\blazored-toast.min.css",
+      "SourceId": "Blazored.Toast",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\User\\.nuget\\packages\\blazored.toast\\3.2.2\\staticwebassets\\",
+      "BasePath": "_content/Blazored.Toast",
+      "RelativePath": "blazored-toast.min.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\User\\.nuget\\packages\\blazored.toast\\3.2.2\\staticwebassets\\blazored-toast.min.css"
+    },
+    {
+      "Identity": "D:\\OneDrive\\Área de Trabalho\\Nova pasta\\VoeAirlinesBlazor\\obj\\Debug\\net6.0\\scopedcss\\bundle\\VoeAirlinesBlazor.styles.css",
       "SourceId": "VoeAirlinesBlazor",
       "SourceType": "Computed",
-      "ContentRoot": "B:\\Git\\VoeAirlinesBlazor\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
+      "ContentRoot": "D:\\OneDrive\\Área de Trabalho\\Nova pasta\\VoeAirlinesBlazor\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
       "BasePath": "_content/VoeAirlinesBlazor",
       "RelativePath": "VoeAirlinesBlazor.styles.css",
       "AssetKind": "All",
@@ -31,13 +65,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "B:\\Git\\VoeAirlinesBlazor\\obj\\Debug\\net6.0\\scopedcss\\bundle\\VoeAirlinesBlazor.styles.css"
+      "OriginalItemSpec": "D:\\OneDrive\\Área de Trabalho\\Nova pasta\\VoeAirlinesBlazor\\obj\\Debug\\net6.0\\scopedcss\\bundle\\VoeAirlinesBlazor.styles.css"
     },
     {
-      "Identity": "B:\\Git\\VoeAirlinesBlazor\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\VoeAirlinesBlazor.bundle.scp.css",
+      "Identity": "D:\\OneDrive\\Área de Trabalho\\Nova pasta\\VoeAirlinesBlazor\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\VoeAirlinesBlazor.bundle.scp.css",
       "SourceId": "VoeAirlinesBlazor",
       "SourceType": "Computed",
-      "ContentRoot": "B:\\Git\\VoeAirlinesBlazor\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "D:\\OneDrive\\Área de Trabalho\\Nova pasta\\VoeAirlinesBlazor\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/VoeAirlinesBlazor",
       "RelativePath": "VoeAirlinesBlazor.bundle.scp.css",
       "AssetKind": "All",
@@ -48,13 +82,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "B:\\Git\\VoeAirlinesBlazor\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\VoeAirlinesBlazor.bundle.scp.css"
+      "OriginalItemSpec": "D:\\OneDrive\\Área de Trabalho\\Nova pasta\\VoeAirlinesBlazor\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\VoeAirlinesBlazor.bundle.scp.css"
     },
     {
-      "Identity": "B:\\Git\\VoeAirlinesBlazor\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "Identity": "D:\\OneDrive\\Área de Trabalho\\Nova pasta\\VoeAirlinesBlazor\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
       "SourceId": "VoeAirlinesBlazor",
       "SourceType": "Discovered",
-      "ContentRoot": "B:\\Git\\VoeAirlinesBlazor\\wwwroot\\",
+      "ContentRoot": "D:\\OneDrive\\Área de Trabalho\\Nova pasta\\VoeAirlinesBlazor\\wwwroot\\",
       "BasePath": "_content/VoeAirlinesBlazor",
       "RelativePath": "css/bootstrap/bootstrap.min.css",
       "AssetKind": "All",
@@ -68,10 +102,10 @@
       "OriginalItemSpec": "wwwroot\\css\\bootstrap\\bootstrap.min.css"
     },
     {
-      "Identity": "B:\\Git\\VoeAirlinesBlazor\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "Identity": "D:\\OneDrive\\Área de Trabalho\\Nova pasta\\VoeAirlinesBlazor\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
       "SourceId": "VoeAirlinesBlazor",
       "SourceType": "Discovered",
-      "ContentRoot": "B:\\Git\\VoeAirlinesBlazor\\wwwroot\\",
+      "ContentRoot": "D:\\OneDrive\\Área de Trabalho\\Nova pasta\\VoeAirlinesBlazor\\wwwroot\\",
       "BasePath": "_content/VoeAirlinesBlazor",
       "RelativePath": "css/bootstrap/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -85,10 +119,10 @@
       "OriginalItemSpec": "wwwroot\\css\\bootstrap\\bootstrap.min.css.map"
     },
     {
-      "Identity": "B:\\Git\\VoeAirlinesBlazor\\wwwroot\\css\\open-iconic\\FONT-LICENSE",
+      "Identity": "D:\\OneDrive\\Área de Trabalho\\Nova pasta\\VoeAirlinesBlazor\\wwwroot\\css\\open-iconic\\FONT-LICENSE",
       "SourceId": "VoeAirlinesBlazor",
       "SourceType": "Discovered",
-      "ContentRoot": "B:\\Git\\VoeAirlinesBlazor\\wwwroot\\",
+      "ContentRoot": "D:\\OneDrive\\Área de Trabalho\\Nova pasta\\VoeAirlinesBlazor\\wwwroot\\",
       "BasePath": "_content/VoeAirlinesBlazor",
       "RelativePath": "css/open-iconic/FONT-LICENSE",
       "AssetKind": "All",
@@ -102,10 +136,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\FONT-LICENSE"
     },
     {
-      "Identity": "B:\\Git\\VoeAirlinesBlazor\\wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css",
+      "Identity": "D:\\OneDrive\\Área de Trabalho\\Nova pasta\\VoeAirlinesBlazor\\wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css",
       "SourceId": "VoeAirlinesBlazor",
       "SourceType": "Discovered",
-      "ContentRoot": "B:\\Git\\VoeAirlinesBlazor\\wwwroot\\",
+      "ContentRoot": "D:\\OneDrive\\Área de Trabalho\\Nova pasta\\VoeAirlinesBlazor\\wwwroot\\",
       "BasePath": "_content/VoeAirlinesBlazor",
       "RelativePath": "css/open-iconic/font/css/open-iconic-bootstrap.min.css",
       "AssetKind": "All",
@@ -119,10 +153,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css"
     },
     {
-      "Identity": "B:\\Git\\VoeAirlinesBlazor\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.eot",
+      "Identity": "D:\\OneDrive\\Área de Trabalho\\Nova pasta\\VoeAirlinesBlazor\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.eot",
       "SourceId": "VoeAirlinesBlazor",
       "SourceType": "Discovered",
-      "ContentRoot": "B:\\Git\\VoeAirlinesBlazor\\wwwroot\\",
+      "ContentRoot": "D:\\OneDrive\\Área de Trabalho\\Nova pasta\\VoeAirlinesBlazor\\wwwroot\\",
       "BasePath": "_content/VoeAirlinesBlazor",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.eot",
       "AssetKind": "All",
@@ -136,10 +170,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.eot"
     },
     {
-      "Identity": "B:\\Git\\VoeAirlinesBlazor\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.otf",
+      "Identity": "D:\\OneDrive\\Área de Trabalho\\Nova pasta\\VoeAirlinesBlazor\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.otf",
       "SourceId": "VoeAirlinesBlazor",
       "SourceType": "Discovered",
-      "ContentRoot": "B:\\Git\\VoeAirlinesBlazor\\wwwroot\\",
+      "ContentRoot": "D:\\OneDrive\\Área de Trabalho\\Nova pasta\\VoeAirlinesBlazor\\wwwroot\\",
       "BasePath": "_content/VoeAirlinesBlazor",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.otf",
       "AssetKind": "All",
@@ -153,10 +187,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.otf"
     },
     {
-      "Identity": "B:\\Git\\VoeAirlinesBlazor\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.svg",
+      "Identity": "D:\\OneDrive\\Área de Trabalho\\Nova pasta\\VoeAirlinesBlazor\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.svg",
       "SourceId": "VoeAirlinesBlazor",
       "SourceType": "Discovered",
-      "ContentRoot": "B:\\Git\\VoeAirlinesBlazor\\wwwroot\\",
+      "ContentRoot": "D:\\OneDrive\\Área de Trabalho\\Nova pasta\\VoeAirlinesBlazor\\wwwroot\\",
       "BasePath": "_content/VoeAirlinesBlazor",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.svg",
       "AssetKind": "All",
@@ -170,10 +204,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.svg"
     },
     {
-      "Identity": "B:\\Git\\VoeAirlinesBlazor\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.ttf",
+      "Identity": "D:\\OneDrive\\Área de Trabalho\\Nova pasta\\VoeAirlinesBlazor\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.ttf",
       "SourceId": "VoeAirlinesBlazor",
       "SourceType": "Discovered",
-      "ContentRoot": "B:\\Git\\VoeAirlinesBlazor\\wwwroot\\",
+      "ContentRoot": "D:\\OneDrive\\Área de Trabalho\\Nova pasta\\VoeAirlinesBlazor\\wwwroot\\",
       "BasePath": "_content/VoeAirlinesBlazor",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.ttf",
       "AssetKind": "All",
@@ -187,10 +221,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.ttf"
     },
     {
-      "Identity": "B:\\Git\\VoeAirlinesBlazor\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.woff",
+      "Identity": "D:\\OneDrive\\Área de Trabalho\\Nova pasta\\VoeAirlinesBlazor\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.woff",
       "SourceId": "VoeAirlinesBlazor",
       "SourceType": "Discovered",
-      "ContentRoot": "B:\\Git\\VoeAirlinesBlazor\\wwwroot\\",
+      "ContentRoot": "D:\\OneDrive\\Área de Trabalho\\Nova pasta\\VoeAirlinesBlazor\\wwwroot\\",
       "BasePath": "_content/VoeAirlinesBlazor",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.woff",
       "AssetKind": "All",
@@ -204,10 +238,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.woff"
     },
     {
-      "Identity": "B:\\Git\\VoeAirlinesBlazor\\wwwroot\\css\\open-iconic\\ICON-LICENSE",
+      "Identity": "D:\\OneDrive\\Área de Trabalho\\Nova pasta\\VoeAirlinesBlazor\\wwwroot\\css\\open-iconic\\ICON-LICENSE",
       "SourceId": "VoeAirlinesBlazor",
       "SourceType": "Discovered",
-      "ContentRoot": "B:\\Git\\VoeAirlinesBlazor\\wwwroot\\",
+      "ContentRoot": "D:\\OneDrive\\Área de Trabalho\\Nova pasta\\VoeAirlinesBlazor\\wwwroot\\",
       "BasePath": "_content/VoeAirlinesBlazor",
       "RelativePath": "css/open-iconic/ICON-LICENSE",
       "AssetKind": "All",
@@ -221,10 +255,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\ICON-LICENSE"
     },
     {
-      "Identity": "B:\\Git\\VoeAirlinesBlazor\\wwwroot\\css\\open-iconic\\README.md",
+      "Identity": "D:\\OneDrive\\Área de Trabalho\\Nova pasta\\VoeAirlinesBlazor\\wwwroot\\css\\open-iconic\\README.md",
       "SourceId": "VoeAirlinesBlazor",
       "SourceType": "Discovered",
-      "ContentRoot": "B:\\Git\\VoeAirlinesBlazor\\wwwroot\\",
+      "ContentRoot": "D:\\OneDrive\\Área de Trabalho\\Nova pasta\\VoeAirlinesBlazor\\wwwroot\\",
       "BasePath": "_content/VoeAirlinesBlazor",
       "RelativePath": "css/open-iconic/README.md",
       "AssetKind": "All",
@@ -238,10 +272,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\README.md"
     },
     {
-      "Identity": "B:\\Git\\VoeAirlinesBlazor\\wwwroot\\css\\site.css",
+      "Identity": "D:\\OneDrive\\Área de Trabalho\\Nova pasta\\VoeAirlinesBlazor\\wwwroot\\css\\site.css",
       "SourceId": "VoeAirlinesBlazor",
       "SourceType": "Discovered",
-      "ContentRoot": "B:\\Git\\VoeAirlinesBlazor\\wwwroot\\",
+      "ContentRoot": "D:\\OneDrive\\Área de Trabalho\\Nova pasta\\VoeAirlinesBlazor\\wwwroot\\",
       "BasePath": "_content/VoeAirlinesBlazor",
       "RelativePath": "css/site.css",
       "AssetKind": "All",
@@ -255,10 +289,10 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
-      "Identity": "B:\\Git\\VoeAirlinesBlazor\\wwwroot\\favicon.ico",
+      "Identity": "D:\\OneDrive\\Área de Trabalho\\Nova pasta\\VoeAirlinesBlazor\\wwwroot\\favicon.ico",
       "SourceId": "VoeAirlinesBlazor",
       "SourceType": "Discovered",
-      "ContentRoot": "B:\\Git\\VoeAirlinesBlazor\\wwwroot\\",
+      "ContentRoot": "D:\\OneDrive\\Área de Trabalho\\Nova pasta\\VoeAirlinesBlazor\\wwwroot\\",
       "BasePath": "_content/VoeAirlinesBlazor",
       "RelativePath": "favicon.ico",
       "AssetKind": "All",
@@ -270,40 +304,6 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.ico"
-    },
-    {
-      "Identity": "C:\\Users\\shad0\\.nuget\\packages\\blazored.toast\\3.2.2\\staticwebassets\\blazored-toast.css",
-      "SourceId": "Blazored.Toast",
-      "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\shad0\\.nuget\\packages\\blazored.toast\\3.2.2\\staticwebassets\\",
-      "BasePath": "_content/Blazored.Toast",
-      "RelativePath": "blazored-toast.css",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\shad0\\.nuget\\packages\\blazored.toast\\3.2.2\\staticwebassets\\blazored-toast.css"
-    },
-    {
-      "Identity": "C:\\Users\\shad0\\.nuget\\packages\\blazored.toast\\3.2.2\\staticwebassets\\blazored-toast.min.css",
-      "SourceId": "Blazored.Toast",
-      "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\shad0\\.nuget\\packages\\blazored.toast\\3.2.2\\staticwebassets\\",
-      "BasePath": "_content/Blazored.Toast",
-      "RelativePath": "blazored-toast.min.css",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\shad0\\.nuget\\packages\\blazored.toast\\3.2.2\\staticwebassets\\blazored-toast.min.css"
     }
   ]
 }

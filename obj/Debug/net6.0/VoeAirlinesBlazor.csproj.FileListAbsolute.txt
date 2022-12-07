@@ -31,3 +31,36 @@ B:\Git\VoeAirlinesBlazor\obj\Debug\net6.0\VoeAirlinesBlazor.pdb
 B:\Git\VoeAirlinesBlazor\obj\Debug\net6.0\VoeAirlinesBlazor.genruntimeconfig.cache
 B:\Git\VoeAirlinesBlazor\obj\Debug\net6.0\ref\VoeAirlinesBlazor.dll
 B:\Git\VoeAirlinesBlazor\bin\Debug\net6.0\Blazored.Toast.dll
+D:\OneDrive\Área de Trabalho\Nova pasta\VoeAirlinesBlazor\bin\Debug\net6.0\appsettings.Development.json
+D:\OneDrive\Área de Trabalho\Nova pasta\VoeAirlinesBlazor\bin\Debug\net6.0\appsettings.json
+D:\OneDrive\Área de Trabalho\Nova pasta\VoeAirlinesBlazor\bin\Debug\net6.0\VoeAirlinesBlazor.staticwebassets.runtime.json
+D:\OneDrive\Área de Trabalho\Nova pasta\VoeAirlinesBlazor\bin\Debug\net6.0\VoeAirlinesBlazor.exe
+D:\OneDrive\Área de Trabalho\Nova pasta\VoeAirlinesBlazor\bin\Debug\net6.0\VoeAirlinesBlazor.deps.json
+D:\OneDrive\Área de Trabalho\Nova pasta\VoeAirlinesBlazor\bin\Debug\net6.0\VoeAirlinesBlazor.runtimeconfig.json
+D:\OneDrive\Área de Trabalho\Nova pasta\VoeAirlinesBlazor\bin\Debug\net6.0\VoeAirlinesBlazor.dll
+D:\OneDrive\Área de Trabalho\Nova pasta\VoeAirlinesBlazor\bin\Debug\net6.0\VoeAirlinesBlazor.pdb
+D:\OneDrive\Área de Trabalho\Nova pasta\VoeAirlinesBlazor\bin\Debug\net6.0\Blazored.Toast.dll
+D:\OneDrive\Área de Trabalho\Nova pasta\VoeAirlinesBlazor\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\OneDrive\Área de Trabalho\Nova pasta\VoeAirlinesBlazor\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\OneDrive\Área de Trabalho\Nova pasta\VoeAirlinesBlazor\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\OneDrive\Área de Trabalho\Nova pasta\VoeAirlinesBlazor\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+D:\OneDrive\Área de Trabalho\Nova pasta\VoeAirlinesBlazor\obj\Debug\net6.0\VoeAirlinesBlazor.csproj.AssemblyReference.cache
+D:\OneDrive\Área de Trabalho\Nova pasta\VoeAirlinesBlazor\obj\Debug\net6.0\VoeAirlinesBlazor.GeneratedMSBuildEditorConfig.editorconfig
+D:\OneDrive\Área de Trabalho\Nova pasta\VoeAirlinesBlazor\obj\Debug\net6.0\VoeAirlinesBlazor.AssemblyInfoInputs.cache
+D:\OneDrive\Área de Trabalho\Nova pasta\VoeAirlinesBlazor\obj\Debug\net6.0\VoeAirlinesBlazor.AssemblyInfo.cs
+D:\OneDrive\Área de Trabalho\Nova pasta\VoeAirlinesBlazor\obj\Debug\net6.0\VoeAirlinesBlazor.csproj.CoreCompileInputs.cache
+D:\OneDrive\Área de Trabalho\Nova pasta\VoeAirlinesBlazor\obj\Debug\net6.0\VoeAirlinesBlazor.MvcApplicationPartsAssemblyInfo.cache
+D:\OneDrive\Área de Trabalho\Nova pasta\VoeAirlinesBlazor\obj\Debug\net6.0\VoeAirlinesBlazor.RazorAssemblyInfo.cache
+D:\OneDrive\Área de Trabalho\Nova pasta\VoeAirlinesBlazor\obj\Debug\net6.0\VoeAirlinesBlazor.RazorAssemblyInfo.cs
+D:\OneDrive\Área de Trabalho\Nova pasta\VoeAirlinesBlazor\obj\Debug\net6.0\staticwebassets.build.json
+D:\OneDrive\Área de Trabalho\Nova pasta\VoeAirlinesBlazor\obj\Debug\net6.0\staticwebassets.development.json
+D:\OneDrive\Área de Trabalho\Nova pasta\VoeAirlinesBlazor\obj\Debug\net6.0\scopedcss\Shared\MainLayout.razor.rz.scp.css
+D:\OneDrive\Área de Trabalho\Nova pasta\VoeAirlinesBlazor\obj\Debug\net6.0\scopedcss\Shared\NavMenu.razor.rz.scp.css
+D:\OneDrive\Área de Trabalho\Nova pasta\VoeAirlinesBlazor\obj\Debug\net6.0\scopedcss\bundle\VoeAirlinesBlazor.styles.css
+D:\OneDrive\Área de Trabalho\Nova pasta\VoeAirlinesBlazor\obj\Debug\net6.0\scopedcss\projectbundle\VoeAirlinesBlazor.bundle.scp.css
+D:\OneDrive\Área de Trabalho\Nova pasta\VoeAirlinesBlazor\obj\Debug\net6.0\VoeAirlinesBlazor.csproj.CopyComplete
+D:\OneDrive\Área de Trabalho\Nova pasta\VoeAirlinesBlazor\obj\Debug\net6.0\VoeAirlinesBlazor.dll
+D:\OneDrive\Área de Trabalho\Nova pasta\VoeAirlinesBlazor\obj\Debug\net6.0\refint\VoeAirlinesBlazor.dll
+D:\OneDrive\Área de Trabalho\Nova pasta\VoeAirlinesBlazor\obj\Debug\net6.0\VoeAirlinesBlazor.pdb
+D:\OneDrive\Área de Trabalho\Nova pasta\VoeAirlinesBlazor\obj\Debug\net6.0\VoeAirlinesBlazor.genruntimeconfig.cache
+D:\OneDrive\Área de Trabalho\Nova pasta\VoeAirlinesBlazor\obj\Debug\net6.0\ref\VoeAirlinesBlazor.dll

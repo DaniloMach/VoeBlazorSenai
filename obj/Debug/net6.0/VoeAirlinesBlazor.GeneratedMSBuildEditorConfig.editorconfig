@@ -8,61 +8,61 @@ build_property.PlatformNeutralAssembly =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = VoeAirlinesBlazor
 build_property.RootNamespace = VoeAirlinesBlazor
-build_property.ProjectDir = b:\Git\VoeAirlinesBlazor\
+build_property.ProjectDir = D:\OneDrive\Área de Trabalho\Nova pasta\VoeAirlinesBlazor\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = b:\Git\VoeAirlinesBlazor
+build_property.MSBuildProjectDirectory = D:\OneDrive\Área de Trabalho\Nova pasta\VoeAirlinesBlazor
 build_property._RazorSourceGeneratorDebug = 
 
-[b:/Git/VoeAirlinesBlazor/App.razor]
+[D:/OneDrive/Área de Trabalho/Nova pasta/VoeAirlinesBlazor/App.razor]
 build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[b:/Git/VoeAirlinesBlazor/Pages/Autentica.razor]
+[D:/OneDrive/Área de Trabalho/Nova pasta/VoeAirlinesBlazor/Pages/Autentica.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQXV0ZW50aWNhLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[b:/Git/VoeAirlinesBlazor/Pages/Counter.razor]
+[D:/OneDrive/Área de Trabalho/Nova pasta/VoeAirlinesBlazor/Pages/Counter.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ291bnRlci5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[b:/Git/VoeAirlinesBlazor/Pages/FetchData.razor]
+[D:/OneDrive/Área de Trabalho/Nova pasta/VoeAirlinesBlazor/Pages/FetchData.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRmV0Y2hEYXRhLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[b:/Git/VoeAirlinesBlazor/Pages/Index.razor]
+[D:/OneDrive/Área de Trabalho/Nova pasta/VoeAirlinesBlazor/Pages/Index.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXgucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[b:/Git/VoeAirlinesBlazor/Shared/Component.razor]
+[D:/OneDrive/Área de Trabalho/Nova pasta/VoeAirlinesBlazor/Shared/Component.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXENvbXBvbmVudC5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[b:/Git/VoeAirlinesBlazor/Shared/SurveyPrompt.razor]
+[D:/OneDrive/Área de Trabalho/Nova pasta/VoeAirlinesBlazor/Shared/SurveyPrompt.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXFN1cnZleVByb21wdC5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[b:/Git/VoeAirlinesBlazor/_Imports.razor]
+[D:/OneDrive/Área de Trabalho/Nova pasta/VoeAirlinesBlazor/_Imports.razor]
 build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[b:/Git/VoeAirlinesBlazor/Shared/MainLayout.razor]
+[D:/OneDrive/Área de Trabalho/Nova pasta/VoeAirlinesBlazor/Shared/MainLayout.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE1haW5MYXlvdXQucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = b-z0ldbwyuqu
 
-[b:/Git/VoeAirlinesBlazor/Shared/NavMenu.razor]
+[D:/OneDrive/Área de Trabalho/Nova pasta/VoeAirlinesBlazor/Shared/NavMenu.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE5hdk1lbnUucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = b-q0y8wszpc5
 
-[b:/Git/VoeAirlinesBlazor/Pages/Error.cshtml]
+[D:/OneDrive/Área de Trabalho/Nova pasta/VoeAirlinesBlazor/Pages/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[b:/Git/VoeAirlinesBlazor/Pages/_Host.cshtml]
+[D:/OneDrive/Área de Trabalho/Nova pasta/VoeAirlinesBlazor/Pages/_Host.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX0hvc3QuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[b:/Git/VoeAirlinesBlazor/Pages/_Layout.cshtml]
+[D:/OneDrive/Área de Trabalho/Nova pasta/VoeAirlinesBlazor/Pages/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX0xheW91dC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 

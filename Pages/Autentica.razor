@@ -30,7 +30,8 @@
     string inputPassword { get; set; } = string.Empty;
     bool acesso = false;
     bool hidediv = false;
-    List<Login>? Users;
+    List<Login>? Users = new List<Login>();
+
     protected override async Task OnInitializedAsync()
     {
         var result = await ProtectedSessionStore.GetAsync<bool>("loginStatus");
@@ -39,11 +40,11 @@
     
     private async void Acessar()
     {
-        var apiName = "http://mrd34dpooly-001-site1.ftempurl.com/api/login";
+        var apiName = "http://destruidor911-001-site1.itempurl.com/api/login";
         var httpResponse = await client.GetAsync(apiName);
         if (httpResponse.IsSuccessStatusCode)
         {
-            Users = new List<Login>();
+            
             var apiConteudo = await httpResponse.Content.ReadAsStringAsync();
             Users = JsonConvert.DeserializeObject<List<Login>>(apiConteudo);
             StateHasChanged();
